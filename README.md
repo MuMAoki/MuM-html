@@ -44,7 +44,7 @@ untuk membuat garis pemisah
 blockquote (teks dengan kutip dua)
 untuk membuat teks dengan kutip dua pada awal dan akhir
 
-pre (-)
+(pre) (-)
 ---
 
 ==========|==========
@@ -64,10 +64,10 @@ Untuk membuat teks miring
 mark (penanda)
 untuk membuat sorotan pada teks
 
-sub (-)
+(sub) (-)
 ---
 
-sup (-)
+(sup) (-)
 ---
 
 ==========|==========
@@ -86,23 +86,17 @@ Untuk memasukan video
 
 ==========|==========
 
-ul 
-Untuk membuat daftar tak berurutan
+(ul) -> Untuk membuat daftar tak berurutan
 
-ol
-Untuk membuat daftar berurutan
+ol -> Untuk membuat daftar berurutan
 
-li
-Untuk membuat daftar pada <ul> dan <li>
+li -> Untuk membuat daftar pada <ul> dan <li>
 
-dl
-Untuk membuat mendefinisikan daftar deskripsi
+dl -> Untuk membuat mendefinisikan daftar deskripsi
 
-dt
-Untuk membuat definisi istilah dalam daftar deskripsi
+dt -> Untuk membuat definisi istilah dalam daftar deskripsi
 
-dd
-untuk membuat definisi dari dalam istilah dari deskripsi
+dd -> untuk membuat definisi dari dalam istilah dari deskripsi
 
 ==========|==========
 
