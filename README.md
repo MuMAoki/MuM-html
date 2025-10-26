@@ -11,132 +11,130 @@ Terdapat dua bagian di HTML yaitu head dan body
 
 ==========TAG DI HTML==========
 
-#<!DOCTYPE html> -> penanda sebagai file html
-
-#<html> -> pembungkus semua konten dan selalu berada
+html -> pembungkus semua konten dan selalu berada
           di awal dan akhir 
 
-#<head> -> informasi tentang html tersebut
+head -> informasi tentang html tersebut
 
-#<title> -> judul halaman pada browser
+title -> judul halaman pada browser
 
-<meta> -> ---
+meta -> ---
 
-#<link> -> untuk menghubungkan dengan file atau media 
+link -> untuk menghubungkan dengan file atau media 
           di luar html
 
-#<style> -> untuk css inline
+style -> untuk css inline
 
-#<body> -> berisi semua konten yang akan di tampilkan
+body -> berisi semua konten yang akan di tampilkan
 
 ==========|==========
 
-#<h1> - <h6> (heading1 - 6)
+h1 - h6 (heading1 - 6)
 Untuk membuat judul
 
-#<p> (paragraf)
+p (paragraf)
 Untuk membuat paragraf
 
-#<br> (line break)
+br (line break)
 untuk membuat baris baru
 
-#<hr> (horizontal break)
+hr (horizontal break)
 untuk membuat garis pemisah
 
-#<blockquote> (teks dengan kutip dua)
+blockquote (teks dengan kutip dua)
 untuk membuat teks dengan kutip dua pada awal dan akhir
 
-#<pre> (-)
+pre (-)
 ---
 
 ==========|==========
 
-#<strong> (teks tebal)
+strong (teks tebal)
 Untuk penanda teks penting
 
-#<b> (teks bold)
+b (teks bold)
 Untuk membuat teks tebal
 
-#<em> (teks miring)
+em (teks miring)
 Untuk penekanan sesuatu pada teks
 
-#<i> (italic/teks miring)
+i (italic/teks miring)
 Untuk membuat teks miring
 
-#<mark> (penanda)
+mark (penanda)
 untuk membuat sorotan pada teks
 
-#<sub> (-)
+sub (-)
 ---
 
-#<sup> (-)
+sup (-)
 ---
 
 ==========|==========
 
-#<a> (hyperlink)
+a (hyperlink)
 Untuk membuat tautan ke sumber daya lain
 
-#<img> (image)
+img (image)
 Untuk memasukan gambar
 
-#<audio> (suara)
+audio (suara)
 untuk memasukan suara
 
-#<video> (-)
+video (-)
 Untuk memasukan video
 
 ==========|==========
 
-#<ul> 
+ul 
 Untuk membuat daftar tak berurutan
 
-#<ol>
+ol
 Untuk membuat daftar berurutan
 
-#<li>
+li
 Untuk membuat daftar pada <ul> dan <li>
 
-#<dl>
+dl
 Untuk membuat mendefinisikan daftar deskripsi
 
-#<dt>
+dt
 Untuk membuat definisi istilah dalam daftar deskripsi
 
-#<dd> 
+dd
 untuk membuat definisi dari dalam istilah dari deskripsi
 
 ==========|==========
 
-#<table>
+table
 Untuk membuat tabel 
 
-#<tr>
+tr
 
 
-#<th>
+th
 
 
-#<td>
+td
 
 
 ==========|==========
 
-#<div>
+div
 Untuk membuat kelompok elemen
 
-#<span>
+span
 Untuk mengeleompokan sebagian elemen
 
 ==========|==========
 
-#<header> 
+header
 Untuk membuat konten pengantar
 
-#<nav>
+nav
 untuk membuat navbar (bar navigasi)
 
-#<main>
+main
 Untuk menunjukan konten utama
 
 
